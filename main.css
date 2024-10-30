@@ -1,0 +1,29 @@
+.cas-table__el {
+	display: inline-block;
+	border: 1px solid black;
+	border-top: none;
+	font-size: 14px;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.cas-table__el--second {
+	border-left: none;
+}
+
+.cas-table {
+	font-size: 0;
+	border-top: 1px solid black;
+	display: inline-block;
+	clear: both;
+}
+
+.cas-table__container {
+	display: inline-block;
+	clear: both;
+}
+
+.cas-table__container p {
+	margin-bottom: 0;
+}

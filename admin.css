@@ -1,0 +1,41 @@
+label[for="custom_section_monday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
+
+label[for="custom_section_tuesday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
+
+label[for="custom_section_wednesday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
+
+label[for="custom_section_thursday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
+
+label[for="custom_section_friday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
+
+label[for="custom_section_saturday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
+
+label[for="custom_section_sunday"] {
+	text-decoration: underline;
+	color: blue;
+	cursor: auto;
+}
